@@ -8,4 +8,4 @@ I plan on creating multiple HoC's for people to use and contribute.
 
 Classic Vertical FlatList with nice disappearing animation
 
-![Video example](https://i.imgur.com/TsB4oUk.gif)
+![Video example](https://i.imgur.com/TsB4oUk.gifv)
